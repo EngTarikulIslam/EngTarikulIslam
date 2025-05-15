@@ -7,7 +7,9 @@
 - 🌱 I'm currently learning **Advanced Data Analytics using AI/ML**
 - 📫 How to reach me **engtarikulislam.1240@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me</h2>
+
+
 <p align="left">
 <a href="https://www.linkedin.com/in/engtarikulislam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/engtarikulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
@@ -17,7 +19,7 @@
 <a href="https://www.youtube.com/@engtarikulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="Left">Languages and Tools</h2>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
