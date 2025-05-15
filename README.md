@@ -76,4 +76,9 @@
       <img src="https://github-profile-trophy.vercel.app/?username=engtarikulislam&row=1&column=6&theme=radical&margin-w=15" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/engtarikulislam/engtarikulislam/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    </td>
+  </tr>
 </table>
