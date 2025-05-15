@@ -66,11 +66,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engtarikulislam&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engtarikulislam&theme=radical" alt="Waliyel's activity graph" style="width:100%"/>
-    </td>
-  </tr>
     <tr>
     <td colspan="2" align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=engtarikulislam&row=1&column=6&theme=radical&margin-w=15" />
@@ -78,7 +73,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/engtarikulislam/engtarikulislam/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+      <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
     </td>
   </tr>
 </table>
