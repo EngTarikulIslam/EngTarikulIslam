@@ -96,14 +96,38 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=engtarikulislam&theme=radical" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engtarikulislam&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
+
+  <!-- Weakly Coding Activity -->
+<tr align="center">
+  <td colspan="2" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=engtarikulislam&theme=redical&bg_color=141321&hide_border=true&area=true&custom_title=My%20Weekly%20Coding%20Activity&height=300" alt="Weekly Activity" style="border: 2px solid #FF0080; border-radius: 12px; padding: 6px; box-shadow: 0 4px 12px rgba(255, 0, 128, 0.4);" />
+  </td>
+</tr>
+
+
+  <tr align="center">
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engtarikulislam&theme=radical" alt="Repos per Language" style="width:100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engtarikulislam&theme=radical" alt="Most Commit Language" style="width:100%"/>
     </td>
   </tr>
+
+<!-- Most Language uges -->
+  <tr>
+    <td align="center" width="50%">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engtarikulislam&layout=compact&theme=radical&hide_border=true&count_private=true&hide=html,css,scss,less,jupyter%20notebook&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,engtarikulislam" alt="Top Languages" style="width:100%"/>
+  </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engtarikulislam&layout=pie&theme=radical&hide_border=true&hide=html,css,scss,less&langs_count=6&size_weight=0.6&count_weight=0.4&custom_title=Language%20Distribution%20(Pie%20Chart)" alt="Language Pie Chart" style="width:80%; height:260px" />
+    </td>
+  </tr>
+
+
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engtarikulislam&theme=radical" alt="Waliyel's activity graph" style="width:100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engtarikulislam&theme=radical" alt="Tarikul's activity graph" style="width:100%"/>
     </td>
   </tr>
     <tr>
