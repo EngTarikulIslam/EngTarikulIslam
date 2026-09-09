@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Private repository projects**
 - 🌱 I'm currently learning **Advanced Data Analytics using AI/ML**
-- 📫 How to reach me **engtarikulislam.1240@gmail.com**
+- 📫 How to reach me **contact@engtarikulislam.com**
 
 <h2 align="left">Connect with me</h2>
 
